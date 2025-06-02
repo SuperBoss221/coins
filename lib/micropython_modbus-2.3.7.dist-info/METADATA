@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: micropython-modbus
+Version: 2.3.7
+Summary: MicroPython ModBus TCP and RTU library supporting client and host mode
+Home-page: https://github.com/brainelectronics/micropython-modbus
+Author: brainelectronics
+Author-email: info@brainelectronics.de
+License: MIT
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license
+Dynamic: summary

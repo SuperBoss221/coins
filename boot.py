@@ -1,0 +1,3 @@
+
+import buzser
+buzser.CLICK()
